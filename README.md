@@ -32,7 +32,7 @@ This portfolio website highlights my journey as a developer. From my professiona
 
 ## 💡 **Contributing**
 
-I am open to feedback and contributions that could improve this portfolio! If you'd like to contribute, please follow the instructions in the `CONTRIBUTING.md` file. Suggestions are always welcome!
+I am open to feedback and contributions that could improve this portfolio! Suggestions are always welcome!
 
 ---
 
